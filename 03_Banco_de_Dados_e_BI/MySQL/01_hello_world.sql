@@ -1,1 +1,0 @@
-SELECT "Hello World" AS mensagem_hello_world;
