@@ -1,0 +1,5 @@
+﻿ID_Chamado;Atendente;Nivel_Atendimento;Categoria;SLA_Horas_Limite;Tempo_Resolucao_Horas;Status_Chamado;Cumpre_SLA
+1;Elder Gomes;N3;instabilidade de Sistema;8;4.5;Fechado;Sim
+2;Mariana Silva;N1;Acessos e Permissoes;4;5.75;Fechado;Nao
+3;Carlos Eduardo;N2;Hardware e Impressoras;24;23.0;Fechado;Sim
+4;Elder Gomes;N3;instabilidade de Sistema;8;;Em Aberto;Nao
