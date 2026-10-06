@@ -1,9 +1,0 @@
-﻿id_venda,data_venda,nome_cliente,cidade_cliente,estado_cliente,segmento_cliente,nome_produto,categoria_produto,nome_canal,quantidade,valor_unitario,valor_desconto,valor_total_bruto,valor_total_liquido,status_venda
-1,2026-08-01,Elder gomes,São Paulo,SP,Corporativo,Monitor 27 Polegadas 4K,Monitores,Website,1,1800.0,100.0,1800.0,1700.0,Ticket Alto
-2,2026-08-02,Ana Silva,Rio de Janeiro,RJ,Varejo,Teclado Mecânico RGB,Periféricos,Aplicativo Mobile,2,250.0,20.0,500.0,480.0,Ticket Baixo
-3,2026-08-03,Carlos Oliveira,Belo Horizonte,MG,Varejo,Cadeira Ergonômica,Móveis,Loja Física,1,950.0,50.0,950.0,900.0,Ticket Médio
-4,2026-08-04,Mariana Santos,Curitiba,PR,Corporativo,Mouse Sem Fio Ergônomico,Periféricos,Marketplace,3,120.0,0.0,360.0,360.0,Ticket Baixo
-5,2026-08-05,Roberto Souza,Porto Alegre,RS,Varejo,Headset Gamer 7.1,Áudio,Website,1,350.0,15.0,350.0,335.0,Ticket Baixo
-6,2026-08-06,Elder gomes,São Paulo,SP,Corporativo,Teclado Mecânico RGB,Periféricos,Aplicativo Mobile,1,250.0,0.0,250.0,250.0,Ticket Baixo
-7,2026-08-07,Ana Silva,Rio de Janeiro,RJ,Varejo,Monitor 27 Polegadas 4K,Monitores,Website,1,1800.0,150.0,1800.0,1650.0,Ticket Alto
-8,2026-08-08,Carlos Oliveira,Belo Horizonte,MG,Varejo,Headset Gamer 7.1,Áudio,Marketplace,2,350.0,30.0,700.0,670.0,Ticket Médio
