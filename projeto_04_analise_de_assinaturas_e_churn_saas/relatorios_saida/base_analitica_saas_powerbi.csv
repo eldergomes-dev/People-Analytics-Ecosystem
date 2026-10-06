@@ -1,0 +1,11 @@
+﻿id_pagamento;id_assinatura;id_cliente;nome_cliente;email;id_plano;nome_plano;valor_mensal_plano;status_assinatura;data_inicio_assinatura;data_cancelamento;data_pagamento;valor_pago;status_pagamento
+1;1;1;TechCorp Solucoes;contato@techcorp.com;2;Pro;149,9;Ativo;2025-01-10 09:30:00;;2025-01-10 09:35:00;149,9;Aprovado
+2;1;1;TechCorp Solucoes;contato@techcorp.com;2;Pro;149,9;Ativo;2025-01-10 09:30:00;;2025-02-10 09:00:00;149,9;Aprovado
+3;1;1;TechCorp Solucoes;contato@techcorp.com;2;Pro;149,9;Ativo;2025-01-10 09:30:00;;2025-03-10 09:00:00;149,9;Aprovado
+4;2;2;Inovacao Digital LTDA;financeiro@inovacao.com;1;Basic;49,9;Cancelado;2025-01-15 15:00:00;2025-04-15 10:00:00;2025-01-15 15:05:00;49,9;Aprovado
+5;2;2;Inovacao Digital LTDA;financeiro@inovacao.com;1;Basic;49,9;Cancelado;2025-01-15 15:00:00;2025-04-15 10:00:00;2025-02-15 09:00:00;49,9;Aprovado
+6;2;2;Inovacao Digital LTDA;financeiro@inovacao.com;1;Basic;49,9;Cancelado;2025-01-15 15:00:00;2025-04-15 10:00:00;2025-03-15 09:00:00;49,9;Aprovado
+7;3;3;Global Soft Inc;admin@globalsoft.com;3;Enterprise;499,9;Ativo;2025-02-01 11:30:00;;2025-02-01 11:35:00;499,9;Aprovado
+8;3;3;Global Soft Inc;admin@globalsoft.com;3;Enterprise;499,9;Ativo;2025-02-01 11:30:00;;2025-03-01 09:00:00;499,9;Aprovado
+9;4;4;Alpha Analytics;suporte@alphaanalytics.com;1;Basic;49,9;Ativo;2025-02-20 17:00:00;;2025-02-20 17:05:00;49,9;Aprovado
+10;5;5;Beta Logistics;operacoes@betalog.com;2;Pro;149,9;Cancelado;2025-03-05 10:30:00;2025-05-10 18:20:00;2025-03-05 10:35:00;149,9;Aprovado
